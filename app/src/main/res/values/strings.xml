@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Extraordinarios_JRM</string>
+    <string-array name="carreras_array">
+        <item>Informática</item>
+        <item>Derecho</item>
+        <item>Enfermería</item>
+        <item>Comunicación</item>
+        <item>Letras</item>
+    </string-array>
+</resources>
